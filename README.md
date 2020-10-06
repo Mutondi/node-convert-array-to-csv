@@ -1,4 +1,4 @@
-# convert-array-to-csv
+# convert-array-to-csv - expanded for fuelcapp
 
 [![npm](https://img.shields.io/npm/v/convert-array-to-csv.svg?style=flat-square)](https://www.npmjs.com/package/convert-array-to-csv)
 [![Travis branch](https://img.shields.io/travis/aichbauer/node-convert-array-to-csv/master.svg?style=flat-square)](https://travis-ci.org/aichbauer/node-convert-array-to-csv)
